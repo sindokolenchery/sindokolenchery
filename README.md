@@ -1,4 +1,4 @@
-## Hi, I'm Sindo Kolenchery 👋 I'm a Quality & Software Test Engineer!
+## Hi, I'm Sindo Kolenchery 👋 I'm a Software Quality & Test Engineer!
 
 ### 🔭 I’m currently working on 
 - building API automation framework with Karate DSL
@@ -14,8 +14,8 @@
 - Agile Software Developement 
 
 
-🐦 [twitter][twitter] **|** 
-👔 [linkedin][linkedin]
+🐦  [twitter] [twitter] **|** 
+👔  [linkedin] [linkedin]
 
 Shoutout to [James Quick][jamesqquick] for the inspiration!
 
