@@ -14,8 +14,8 @@
 - Agile Software Developement 
 
 
-🐦  [twitter] [twitter] **|** 
-👔  [linkedin] [linkedin]
+🐦  [twitter][twitter] **|** 
+👔  [linkedin][linkedin]
 
 Shoutout to [James Quick][jamesqquick] for the inspiration!
 
